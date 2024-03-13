@@ -1,0 +1,9 @@
+ip=localhost
+port=3306
+username=root
+password=scc2002
+dbname=chat
+initSize=10
+MaxSize=10
+MaxIdTime=60
+connectionTimeout=100
